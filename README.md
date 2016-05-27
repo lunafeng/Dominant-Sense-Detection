@@ -1,4 +1,4 @@
-# DominantSenseDetection
+# Dominant-Sense-Detection
 
 The assumption is people tend to use dominant senses of ambiguous words in daily life rather than all the formally defined senses on Wikipedia. Therefore, by analysing twitter content, we want to find dominant senses people use frequently presenting by Wikipedia entires.
 
